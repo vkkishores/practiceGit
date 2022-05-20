@@ -1,4 +1,3 @@
-
-
-
 line 2 added by user2
+
+Line 1 added by user1
